@@ -1,7 +1,7 @@
 # Heat_Flux
 An algorithm for determining the the frequency of events that meet a selection of criteria. This is an example for Heat Fluxes and includes example data.  
 
-In this folder you can view
+In this folder you can view:
 
 Run_Algorithm.py
 This is the file that is run to analyse a .csv file of heat flux data. Within in this file you can set the limits that represent the threshold value for a heat flux event and the boundary values for bracketing each heat flux events.  These values are free for a user to adjust.  
